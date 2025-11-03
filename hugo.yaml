@@ -1,4 +1,4 @@
-baseURL: blog-3sw.pages.dev
+baseURL: https://blog-3sw.pages.dev/
 languageCode: en-us
 title: Ethan Blog
 theme: ["PaperMod"]
